@@ -34,6 +34,7 @@ from different data sources.
     Redis           <connector/redis>
     Redshift        <connector/redshift>
     SingleStore (MemSQL)          <connector/memsql>
+    Snowflake       <connector/snowflake>
     SQL Server      <connector/sqlserver>
     System          <connector/system>
     Thrift          <connector/thrift>
